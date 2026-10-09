@@ -1,14 +1,15 @@
 # Hi, I'm Diego 👋
 
-I'm a Software Engineering student at Instituto Tecnológico de Costa Rica
+I'm a Software Engineering student at Instituto Tecnológico de Costa Rica (TEC)
 and a Site Reliability Engineer Intern at IBM.
 
 I have hands-on experience across software development, cloud-native
-infrastructure and engineering automation. I'm particularly interested in
-Software Engineering, Site Reliability Engineering and Applied AI.
+infrastructure and engineering automation. I'm particularly interested 
+in building reliable software systems and exploring how AI can be applied 
+to real engineering workflows.
 
 # Certifications
-- AWS Certified AI Practitioner (October 2026)
+- AWS Certified AI Practitioner (August 2026)
 - AWS Certified Cloud Practitioner (In progress, exam scheduled for October 16th)
 
 <!--
