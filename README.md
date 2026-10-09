@@ -7,6 +7,10 @@ I have hands-on experience across software development, cloud-native
 infrastructure and engineering automation. I'm particularly interested in
 Software Engineering, Site Reliability Engineering and Applied AI.
 
+# Certifications
+- AWS Certified AI Practitioner (October 2026)
+- AWS Certified Cloud Practitioner (In progress, exam scheduled for October 16th)
+
 <!--
 **dieduran11/dieduran11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
