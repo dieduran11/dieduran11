@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Diego 👋
+
+I'm a Software Engineering student at Instituto Tecnológico de Costa Rica
+and a Site Reliability Engineer Intern at IBM.
+
+I have hands-on experience across software development, cloud-native
+infrastructure and engineering automation. I'm particularly interested in
+Software Engineering, Site Reliability Engineering and Applied AI.
 
 <!--
 **dieduran11/dieduran11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
