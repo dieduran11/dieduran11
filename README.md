@@ -44,6 +44,8 @@ authentication, access control, MongoDB data modeling and AWS deployment.
 
 **Tech:** React · Node.js · Express · MongoDB · AWS
 
+---
+
 ### Operations Research Algorithms
 **Collaborative university project · Developer**
 
@@ -53,6 +55,8 @@ desktop interface built using GTK and Glade.
 
 **Tech:** C · GTK · Glade · Linux
 
+---
+
 ### SIMPLEX Algorithm in C
 **Collaborative university project · Developer**
 
@@ -60,6 +64,8 @@ Desktop application implementing the Simplex optimization algorithm in C,
 with a graphical user interface for defining and solving linear programming problems.
 
 **Tech:** C · GTK · Glade · Linux
+
+---
 
 ### Hitch Hop
 **Collaborative university project · Frontend Developer**
