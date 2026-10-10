@@ -34,7 +34,41 @@ RAG · MCP · LLM Agents · Prompt Engineering · SQLite FTS5
 - AWS Certified AI Practitioner (August 2026)
 - AWS Certified Cloud Practitioner (Learning completed, exam scheduled for October 16th)
 
+## 📌 Featured Projects
 
+### MediCare Alliance
+**Collaborative university project · Full-Stack Developer**
+
+Full-stack web application built with the MERN stack, featuring RESTful APIs,
+authentication, access control, MongoDB data modeling and AWS deployment.
+
+**Tech:** React · Node.js · Express · MongoDB · AWS
+
+### Operations Research Algorithms
+**Collaborative university project · Developer**
+
+Collection of optimization and dynamic programming applications developed in C,
+including Floyd's shortest-path algorithm and the Knapsack Problem, with a
+desktop interface built using GTK and Glade.
+
+**Tech:** C · GTK · Glade · Linux
+
+### SIMPLEX Algorithm in C
+**Collaborative university project · Developer**
+
+Desktop application implementing the Simplex optimization algorithm in C,
+with a graphical user interface for defining and solving linear programming problems.
+
+**Tech:** C · GTK · Glade · Linux
+
+### Hitch Hop
+**Collaborative university project · Frontend Developer**
+
+Large-scale collaborative application developed by a university class,
+with both web and mobile frontends. Contributed to the implementation and
+integration of application modules within a shared team codebase.
+
+**Tech:** TypeScript · React · Shadcn · Expo
 
 <!--
 **dieduran11/dieduran11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
