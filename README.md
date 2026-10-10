@@ -8,7 +8,7 @@ infrastructure and engineering automation. I'm particularly interested
 in building reliable software systems and exploring how AI can be applied 
 to real engineering workflows.
 
-# 🚀 Currently Learning & Building
+## 🚀 Currently Learning & Building
 - Preparing for the **AWS Certified Cloud Practitioner** exam, scheduled for
   October 16, 2026.
 - Completing the **IBM AI Engineering Professional Certificate** to deepen my
@@ -16,7 +16,21 @@ to real engineering workflows.
 - Preparing an **F1 Race Predictor** project using Python, FastF1 and machine
   learning to apply what I'm learning to real-world racing data.
 
-# Certifications
+## 🧰 Tech Stack
+
+### Programming
+Python · Java · TypeScript · JavaScript · C · SQL · Shell
+
+### Cloud & SRE
+Kubernetes · OpenShift · AWS · IBM Cloud · Argo CD · Grafana · Linux · Git/GitHub
+
+### Web & Data
+React · Node.js · Express · MongoDB · SQLite
+
+### AI & LLM
+RAG · MCP · LLM Agents · Prompt Engineering · SQLite FTS5
+
+## 🏅 Certifications
 - AWS Certified AI Practitioner (August 2026)
 - AWS Certified Cloud Practitioner (Learning completed, exam scheduled for October 16th)
 
