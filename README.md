@@ -21,7 +21,7 @@ to real engineering workflows.
 ### Programming
 Python · Java · TypeScript · JavaScript · C · SQL · Shell
 
-### Cloud & SRE
+### Cloud & DevOps
 Kubernetes · OpenShift · AWS · IBM Cloud · Argo CD · Grafana · Linux · Git/GitHub
 
 ### Web & Data
